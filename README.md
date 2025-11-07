@@ -8,5 +8,7 @@
 
 ## Contact me in:
 📫 Telegram: [@vanchance](https://t.me/vanchance)
+
 📫 VKontakte: [my profile](https://vk.com/vanchance)
+## My stats in GitHub:
 ## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanchance&show_icons=true&theme=tokyonight&count_private=true)
