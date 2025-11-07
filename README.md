@@ -10,7 +10,7 @@
 📫 Telegram: [@vanchance](https://t.me/vanchance)
 
 📫 VKontakte: [my profile](https://vk.com/vanchance)
-<img src="assets/i-am-music.gif" width="300" alt="I am music" />
+![I am music](https://media.tenor.com/someid.gif)
 
 ## My stats in GitHub:
 ## ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vanchance&theme=tokyo-night)
